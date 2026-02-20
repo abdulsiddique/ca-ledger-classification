@@ -1,0 +1,14 @@
+common_groups = [
+    "Cash and Cash Equivalents",
+    "Trade Receivables",
+    "Inventories",
+    "Property Plant and Equipment",
+    "Trade Payables",
+    "Short-Term Borrowings",
+    "Other Current Liabilities",
+    "Employee Benefits Expense",
+    "Finance Costs",
+    "Other Expenses",
+    "Revenue from Operations",
+    "Other Income"
+]
